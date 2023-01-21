@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya",
+  "name": "宁宁",
+  "greetingText": "很高兴认识你",
+  "wishText": "May the love always be with you! ;)",
+  "imagePath": "img/wish.jpg",
+  "text1": "希望你今年一切顺利 :D",
+  "textInChatBox": "给您以及家人拜个早年啦！",
+  "sendButtonLabel": "Send",
+  "text2": "身体健康，平平安安",
+  "text3": "愿你日子充满烟火，眼里装满星河",
+  "text4": "那就一起迈向",
+  "text4Adjective": "2023",
+  "text5Entry": "希望你,",
+  "text5Content": "钱兔无忧，钱兔似锦，兔然暴富，大展宏兔",
+  "smiley": ":)",
+  "bigTextPart1": "最",
+  "bigTextPart2": "后",
+  "wishHeading": "  ",
+  "outroText": "希望你喜欢",
+  "replayText": "点击，再看一次",
+  "outroSmiley": ":)"
+}
